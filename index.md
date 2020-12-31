@@ -1,3 +1,21 @@
+## Welcome to Johns Hopkins University's Advanced Python Scripting for GIS
+
+
+### About the Course
+
+This course focuses on advanced uses of Python as a scripting tool to automate workflows in GIS and create customized applications. This includes the development of script tools, utilizing advanced ArcPy modules, working with third-party modules, implementing Python geoprocessing services, customizing GIS applications, and more advanced Python functionality. Offered once a year. Prerequisites: 430.606 Programming in GIS.
+
+The [syllabus](syllabus/syllabus.md) can be found here.
+
+### Lessons
+
+Lessons and assignments can for each week are found [here](lessons/lessons.md)
+
+### Contact Information
+
+*todo*
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/achapkowski/AS.430.618/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
