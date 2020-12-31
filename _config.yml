@@ -1,5 +1,8 @@
 # Name of website
-title: AS.430.618 - Advanced Python Scripting for GIS
+title: AS.430.618 
+description: Advanced Python Scripting for GIS
+show_downloads: true
+
 
 theme: jekyll-theme-dinky
 
