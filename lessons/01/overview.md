@@ -48,6 +48,10 @@ This lesson used Jupyter Notebooks for the lessons, they can be found here:
 
 If you need a quick refresher on how to use Jupyter Notebook, please review the instructions [here](https://achapkowski.github.io/AS.430.618/lessons/01/using-the-jupyter-notebook-environment.html).
 
+### Assignment
+
+See the [lesson schedule](https://achapkowski.github.io/AS.430.618/lessons/lessons.html) for the link to the assignments.
+
 ### Discussion 
 
 - Introduction to classmates 
