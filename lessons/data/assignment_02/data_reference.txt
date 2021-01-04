@@ -1,0 +1,3 @@
+Data taken from Open Data Hub: https://hub.arcgis.com/datasets/8f18cb49ea184f5d9183eed3148867d2
+
+Title: BrownstownTownship Parcel Data
