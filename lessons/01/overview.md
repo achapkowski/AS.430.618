@@ -1,7 +1,7 @@
 
-## Lesson 01 - Review of Python 
+## Review of Python 
 
-
+This lesson will recall the basics of Python and allows the students to refresh the information they learned in the previous introductory course on scripting with Python.
 
 
 ### Lesson Topics
@@ -14,12 +14,28 @@
 - IO (reading/writing files)
 - functions
 
-### Reading
+### Required Reading
 	
-	
-	- Classes (optional) - https://pymbook.readthedocs.io/en/latest/classes.html
-	- Modules (optional) - https://pymbook.readthedocs.io/en/latest/modules.html
-	- [Class Syllabus](https://achapkowski.github.io/AS.430.618/syllabus/syllabus.html)
+- Chapter 1 Expert Python Programming - Third Edition	
+- [Class Syllabus](https://achapkowski.github.io/AS.430.618/syllabus/syllabus.html)
+
+### Additional Reading
+
+- Classes (optional) - https://pymbook.readthedocs.io/en/latest/classes.html
+- Modules (optional) - https://pymbook.readthedocs.io/en/latest/modules.html
+
+### Class Video
+
+This weeks lessons covers the basics of Python, which is a review of the introductory course required for this class. 
+
+##### Video 1
+
+[![Lesson 01 Part 1](http://img.youtube.com/vi/63XPsSbEtvE/0.jpg)](https://www.youtube.com/watch?v=63XPsSbEtvE "Lesson 01 Part 1")
+
+#### Video 2
+
+[![Lesson 01 Part 2](http://img.youtube.com/vi/0zWY5N9EIYA/0.jpg)](https://www.youtube.com/watch?v=0zWY5N9EIYA "Lesson 01 Part 2")
+
 
 ### Notebooks/Slides
 
@@ -32,9 +48,7 @@ This lesson used Jupyter Notebooks for the lessons, they can be found here:
 
 If you need a quick refresher on how to use Jupyter Notebook, please review the instructions [here](https://achapkowski.github.io/AS.430.618/lessons/01/using-the-jupyter-notebook-environment.html).
 
-
-
-
 ### Discussion 
 
-	- Introduction to the classes
+- Introduction to classmates 
+- Post any questions about this weeks lessons in the discussion board for this week.
